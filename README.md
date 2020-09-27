@@ -6,7 +6,6 @@ tbd.
 
 ## Usage
 usage: capture.py -c cam -b binding -g gain -e exposure -f fits_filename -p png_filename
-```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
